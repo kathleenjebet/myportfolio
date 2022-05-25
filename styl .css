@@ -3,11 +3,22 @@ h3{
     background-color: pink;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    
-    
 
-  }
+}
   p{
    text-align: justify;
    background-color: aqua;
+   border: 2;
+   margin-bottom: 20px;
+   
   }
+img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    border: 17px double plum;
+    border-bottom: 17px double darkorchid;
+}
+body{
+    background-color: black;
+}
