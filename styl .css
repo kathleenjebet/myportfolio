@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/logo/dreamland.jfif);
+    background-image: url(/logo/lantern.jfif);
     background-size:cover;
     background-attachment: fixed;
     display: flex;
@@ -15,4 +15,18 @@ body{
 .header img{
     height: 130px;
     width: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 0 -8px;
+}
+.main{
+    background-color:rgba(0,0,0, 0.7);
+    color: white;
+    text-align: center;
+    height: 40vh;
+   border-radius: 20px;
+   width: 400px;
+}
+.main-content span{
+    color: green;
 }
