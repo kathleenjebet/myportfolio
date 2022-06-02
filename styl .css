@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url('https://jpeg.org/images/jpegsystems-home.jpg');
+    background-image: url('logo/pink.jfif');
     background-size:cover;
     background-attachment: fixed;
     display: flex;
